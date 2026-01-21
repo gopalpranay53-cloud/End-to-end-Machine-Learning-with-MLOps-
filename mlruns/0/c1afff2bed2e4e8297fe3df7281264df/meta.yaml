@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gopal/End-to-end-Machine-Learning-with-MLOps-/mlruns/0/c1afff2bed2e4e8297fe3df7281264df/artifacts
+end_time: 1769006606787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1afff2bed2e4e8297fe3df7281264df
+run_name: abundant-fawn-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769006584089
+status: 3
+tags: []
+user_id: gopal

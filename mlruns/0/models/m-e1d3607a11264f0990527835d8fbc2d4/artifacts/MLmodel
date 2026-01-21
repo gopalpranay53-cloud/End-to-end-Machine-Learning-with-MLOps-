@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/gopal/End-to-end-Machine-Learning-with-MLOps-/mlruns/0/models/m-e1d3607a11264f0990527835d8fbc2d4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.8.1
+model_id: m-e1d3607a11264f0990527835d8fbc2d4
+model_size_bytes: 912
+model_uuid: m-e1d3607a11264f0990527835d8fbc2d4
+prompts: null
+run_id: e3c0561ee44b4010ad479a13ccd2112e
+utc_time_created: '2026-01-21 14:46:06.129602'

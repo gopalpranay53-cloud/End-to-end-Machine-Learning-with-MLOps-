@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gopal/End-to-end-Machine-Learning-with-MLOps-/mlruns/0/36d7abb7a1d3435999dd866bde6dc621/artifacts
+end_time: 1768984445596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36d7abb7a1d3435999dd866bde6dc621
+run_name: amusing-grub-554
+run_uuid: 36d7abb7a1d3435999dd866bde6dc621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768984437369
+status: 3
+tags: []
+user_id: gopal
